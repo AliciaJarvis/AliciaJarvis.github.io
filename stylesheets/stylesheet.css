@@ -52,7 +52,7 @@ body {
   box-sizing: border-box;
   color:#373737;
   background: #212121;
-  font-size: 1.125em;
+  font-size: 18px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
@@ -421,7 +421,7 @@ Small Device Styles
   code, pre {
     min-width: 320px;
     max-width: 480px;
-    font-size: 0.6875em;
+    font-size: 11px;
   }
 
 }
