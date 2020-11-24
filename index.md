@@ -10,11 +10,11 @@ I cannot even begin to talk about accessibility and inclusive design without tal
 If you're interested in what I do, please <a href="mailto:hello@alicia.design">drop me a line,</a> I'd love to chat; or, you can follow me on:    
  <P>
  <ul>
-  <li><a href="https://www.linkedin.com/in/aliciajarvis/"</a>LinkedIn</li>
-  <li><a href="https://twitter.com/a11yalicia"</a> Twitter</li> 
-  <li><a href="https://www.instagram.com/a11yAlicia/"</a> Instagram</li>
-  <li><a href="https://www.facebook.com/A11yAlicia"</a> Facebook</li> 
-  <li><a href="https://medium.com/@A11yAlicia"</a> Medium</li> 
+  <li><a href="https://www.linkedin.com/in/aliciajarvis/"LinkedIn</a></li>
+  <li><a href="https://twitter.com/a11yalicia" Twitter</a></li> 
+  <li><a href="https://www.instagram.com/a11yAlicia/" Instagram</a></li>
+  <li><a href="https://www.facebook.com/A11yAlicia" Facebook</a></li> 
+  <li><a href="https://medium.com/@A11yAlicia" Medium</a></li> 
  </ul>
 </p>
  
