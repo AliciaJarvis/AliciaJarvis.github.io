@@ -7,5 +7,5 @@ By day, you'll find me enabling and empowering teams at Scotiabank Digital Facto
 
 I cannot even begin to talk about accessibility and inclusive design without talking about Cliff Chadderton and The War Amps first. The War Amps was always, and still continues to be a very important influence in my life. The Child Amputee (CHAMP) Program taught me just as much about accessibility and inclusive design as any blog, book or video ever has. CHAMP was started in 1975 by Cliff, a man who devoted his life to making the lives of others better. Cliff was and always will be a great mentor in my life and the example he set for me and so many others, is one I continue to follow today. I am IAAP certified in Accessibility Core Competencies and I am also a Certified Scrum Master.  
 
-If you're interested in what I do, please drop me a line.
+If you're interested in what I do, please <a href="mailto:hello@alicia.design">drop me a line</a>.
  
