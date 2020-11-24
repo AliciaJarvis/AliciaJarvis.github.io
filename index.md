@@ -11,10 +11,10 @@ If you're interested in what I do, please <a href="mailto:hello@alicia.design">d
  <P>
  <ul>
  <li><a href="https://www.linkedin.com/in/aliciajarvis/"</a>LinkedIn</li>
- <li><a href="https://twitter.com/a11yalicia" Twitter</a> 
- >li><a href="https://www.instagram.com/a11yAlicia/" Instagram</a></li>
-  <li><a href="https://www.facebook.com/A11yAlicia" Facebook</a></li> 
-  <li><a href="https://medium.com/@A11yAlicia" Medium</a></li> 
+  <li><a href="https://twitter.com/a11yalicia"</a>Twitter</li> 
+  >li><a href="https://www.instagram.com/a11yAlicia/"</a> Instagram</a></li>
+  <li><a href="https://www.facebook.com/A11yAlicia" </a>Facebook</li> 
+  <li><a href="https://medium.com/@A11yAlicia" </a>Medium </li>
  </ul>
 </p>
  
