@@ -2,7 +2,7 @@ title: Alicia Jarvis
 description: Senior Digital Accessibility Specialist at Scotiabank, Digital Inclusion Researcher & Strategist, Inclusive Designer
 google_analytics: 
 show_downloads: false
-theme: 
+theme: jekyll-theme-slate
 
 gems:
   - jekyll-mentions
