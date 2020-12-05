@@ -1,5 +1,5 @@
-### About Me:  
-Hi, I’m Alicia. I'm an Accessibility strategist, researcher, and consultant based in Toronto. I was born and raised in a small rural community just outside of Stratford, Ontario, and moved to Toronto to pursue my post-secondary education.
+<h1> About Me </h1> 
+<p> Hi, I’m Alicia. I'm an Accessibility strategist, researcher, and consultant based in Toronto. I was born and raised in a small rural community just outside of Stratford, Ontario, and moved to Toronto to pursue my post-secondary education. </P>
 
 Following the War Amps philosophy of "amputees helping amputees," as well as, taking a human-centered and research-informed approach, my background allows me to see products as experiences and treat them as such. I have more than 10 years of professional experience contributing to all stages of the product and design life cycles — from running discovery research to leading international programs. I have a proven passion for developing innovative solutions that combine cutting-edge technology with a deep understanding of human needs. 
 
