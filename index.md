@@ -17,6 +17,7 @@ If you're interested in what I do, please <a href="mailto:hello@alicia.design">d
   <li><a href="https://medium.com/@A11yAlicia">Medium </a></li>
   <li><a href="https://noti.st/a11yalicia">Noti.st </a></li>
   <li><a href="https://github.com/AliciaJarvis">Github</a></li>
+  <li><a href="https://www.alicia.design/blog-feed.xml">RSS Feed</a></li>
  </ul>
 </p>
 <nav class="a11y-webring-club" aria-labelledby="a11y-webring-club">
