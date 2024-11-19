@@ -10,7 +10,7 @@ If you're interested in what I do, please <a href="mailto:hello@alicia.design">d
  <P>
  <ul>
   <li><a href="https://www.linkedin.com/in/aliciajarvis/">LinkedIn</a></li>
-  <li><a href="https://twitter.com/a11yalicia">Twitter</a></li> 
+  <li><a href="https://bsky.app/profile/a11yalicia.bsky.social">Bluesky</a></li> 
   <li><a href="https://mastodon.social/@A11yAlicia">Mastodon</a></li> 
   <li><a href="https://www.instagram.com/a11yAlicia/">Instagram</a></li>
   <li><a href="https://www.facebook.com/A11yAlicia">Facebook</a></li> 
