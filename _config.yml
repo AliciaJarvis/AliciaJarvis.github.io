@@ -2,7 +2,7 @@ title: Alicia Jarvis
 description: Senior Technical Product Manager II at Bell / Product Inclusion Strategist / Designer / Writer / Speaker
 google_analytics: 
 show_downloads: false
-remote theme: jekyll-theme-contrast
+theme: jekyll-theme-slate
 
 gems:
   - jekyll-mentions
