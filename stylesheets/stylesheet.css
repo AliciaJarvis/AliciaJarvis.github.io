@@ -47,7 +47,7 @@ body {
   box-sizing: border-box;
   color:#373737;
   background: #ebdbd;
-  font-size: 18px;
+  font-size: 20px;
   font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
@@ -90,7 +90,7 @@ h6 {
 }
 
 p {
-  margin: 10px 0 15px 0;
+  margin: 12px 0 20px 0;
 }
 
 footer p {
