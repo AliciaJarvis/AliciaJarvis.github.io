@@ -276,7 +276,7 @@ Full-Width Styles
   z-index: 10;
   padding: 10px 50px 10px 10px;
   color: #ebdbd;
-  background: url('../images/bg-grey.png') #0090ff no-repeat 95% 50%;
+  background: url('../images/bg-grey.png') #BDBDBD; no-repeat 95% 50%;
   font-weight: 700;
   box-shadow: 0 0 10px rgba(0,0,0,.5);
   border-bottom-left-radius: 2px;
@@ -284,7 +284,7 @@ Full-Width Styles
 }
 
 #header_wrap {
-  background: #ebdbd;
+  background: #BDBDBD;
   background: -moz-linear-gradient(top, #ebdbd, #ebdbd);
   background: -webkit-linear-gradient(top, #ebdbd, #ebdbd);
   background: -ms-linear-gradient(top, #ebdbd, #ebdbd);
@@ -293,6 +293,7 @@ Full-Width Styles
 }
 
 #header_wrap .inner {
+  background: #BDBDBD;
   padding: 50px 10px 30px 10px;
 }
 
@@ -362,7 +363,7 @@ Full-Width Styles
 }
 
 #footer_wrap {
-  background: #212121;
+  background: #BDBDBD;
 }
 
 
