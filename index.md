@@ -1,8 +1,8 @@
-Hi there! I’m Alicia, an award-winning senior technical product manager based in vibrant Toronto! If you ask me what do, I’ll tell you I'm a passionate problem solver who thrives on understanding behaviors and trends to help clients roll out innovative products and services that truly delight! With a curiosity about how humans interact with technology, I take a human-centered, big-picture approach, drawing on the skills I’ve honed since time with The War Amps and my Honours degree in Criminology from York University.
+Hi there! I’m Alicia, an award-winning product professional based in vibrant Toronto! If you ask me what do, I’ll tell you I'm a passionate problem solver who thrives on understanding behaviors and trends to help clients roll out innovative products and services that truly delight! With a curiosity about how humans interact with technology, I take a human-centered, big-picture approach, drawing on the skills I’ve honed since time with The War Amps and my Honours degree in Criminology from York University.
 
 Embracing the War Amps philosophy "amputees helping amputees," I see products as immersive experiences and bring over a decade of expertise to all stages of the product and design life cycles. At Bell Canada, I empower teams to solve problems where business goals, human needs, technology converge. I also proudly serve on technical committees and boards like Accessibility Standards Canada and YouthLeadArts, passionately engaging with communities and projects that drive accessibility and inclusive design. I can't discuss accessibility without honouring Cliff Chadderton and The War Amps, which have profoundly shaped my journey. The Child Amputee Program (CHAMP) taught me invaluable lessons about accessibility and inclusive design, guided by the legacy of Cliff, who dedicated his life to the lives of others.
 
-As a professional living with disabilities, I rebranded the Accessibility Services Centre at Bell, founded Diversability at Bell employee resource group, and created the Inclusive Design practice at RBC because I believe everyone deserves to be treated as valuable contributors! I'm also IAAP certified in Accessibility Core Competencies and a Certified Scrum Master. 
+As a product professional living with disabilities, I launched IP Relay Service and Virtual Sign Language Interpretation Service, rebranded the Accessibility Services Centre, and founded Diversability at Bell employee resource group because I believe everyone deserves to be treated as valuable contributors! I'm also IAAP certified in Accessibility Core Competencies and a Certified Scrum Master.
 
 If you're interested in what I do, please <a href="mailto:hello@alicia.design">drop me a line,</a> I'd love to chat; or, you can follow me on:    
  <P>
@@ -29,4 +29,5 @@ If you're interested in what I do, please <a href="mailto:hello@alicia.design">d
 </nav>
    
  
+
 
